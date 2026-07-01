@@ -6,6 +6,7 @@ A collection of systems and protocol implementations built from scratch to bette
 
 | Project | Language | Description |
 | :---: | :---: | :--- |
+| **[Lox Interpreter](https://github.com/farreljordan/interpreter-go)** | **Go** | A tree-walk interpreter for the Lox programming language, implementing lexical analysis, parsing, and AST-based execution from scratch. |
 | **[Redis](https://github.com/farreljordan/redis-go)** | **Go** | A Redis-compatible in-memory database implementing core Redis commands and client communication using the RESP protocol. |
 | **[SQLite](https://github.com/farreljordan/sqlite-go)** | **Go** | A SQLite clone capable of reading SQLite database files, executing basic SQL queries, and supporting B-tree indexing. |
 | **[HTTP](https://github.com/farreljordan/http-go)** | **Go** | An HTTP server/client implementation built from scratch, handling the protocol at the socket level. |
